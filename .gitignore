@@ -1,0 +1,5 @@
+*.csv
+env
+*.keras
+*.code-workspace
+.DS_Store
